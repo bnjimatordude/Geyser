@@ -88,7 +88,7 @@ public interface GeyserConfiguration {
 
     boolean isForceResourcePacks();
 
-    boolean isXboxAchievementsEnabled();
+    boolean isXboxAchievementsEnabled(true);
 
     int getCacheImages();
 
